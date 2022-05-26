@@ -5,10 +5,11 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: virsnp00x <virsnp00x@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/24 11:40:00 by atahiri           #+#    #+#             */
-/*   Updated: 2022/05/26 14:02:16 by virsnp00x        ###   ########.fr       */
+/*   Created: 2022/05/26 15:17:30 by virsnp00x         #+#    #+#             */
+/*   Updated: 2022/05/26 15:17:32 by virsnp00x        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #ifndef PHILOSOPHERS_H
 # define PHILOSOPHERS_H
