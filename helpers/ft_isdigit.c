@@ -6,12 +6,12 @@
 /*   By: virsnp00x <virsnp00x@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/26 15:17:17 by virsnp00x         #+#    #+#             */
-/*   Updated: 2022/05/26 15:17:19 by virsnp00x        ###   ########.fr       */
+/*   Updated: 2022/05/26 17:34:04 by virsnp00x        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-#include "../philosophers.h"
+#include "../philo.h"
 
 int	ft_isdigit(int c)
 {

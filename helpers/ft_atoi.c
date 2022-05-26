@@ -6,12 +6,12 @@
 /*   By: virsnp00x <virsnp00x@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/26 15:16:33 by virsnp00x         #+#    #+#             */
-/*   Updated: 2022/05/26 15:16:37 by virsnp00x        ###   ########.fr       */
+/*   Updated: 2022/05/26 17:34:00 by virsnp00x        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-#include "../philosophers.h"
+#include "../philo.h"
 
 int	ft_atoi(const char *str)
 {

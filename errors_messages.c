@@ -6,11 +6,11 @@
 /*   By: virsnp00x <virsnp00x@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/26 13:11:07 by virsnp00x         #+#    #+#             */
-/*   Updated: 2022/05/26 15:16:58 by virsnp00x        ###   ########.fr       */
+/*   Updated: 2022/05/26 17:33:00 by virsnp00x        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philosophers.h"
+#include "philo.h"
 
 void ft_display_msg(char *str)
 {

@@ -6,12 +6,12 @@
 /*   By: virsnp00x <virsnp00x@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/26 15:17:06 by virsnp00x         #+#    #+#             */
-/*   Updated: 2022/05/26 15:17:07 by virsnp00x        ###   ########.fr       */
+/*   Updated: 2022/05/26 17:33:34 by virsnp00x        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
-#include "philosophers.h"
+#include "philo.h"
 
 unsigned long long	get_time(void)
 {
@@ -23,12 +23,6 @@ unsigned long long	get_time(void)
 
 void	myusleep(unsigned long long time)
 {
-	// unsigned long long	current_time;
-
-	// current_time = get_time();
-	// usleep((time * 1e3) - 10000);
-	// while (get_time() - current_time < time)
-	// 	continue ;
 	unsigned long long  end;
 	end = get_time() + time;
 	while (get_time() < end)
